@@ -1,7 +1,5 @@
-requests
-beautifulsoup4
-google-api-python-client
-google-auth
-google-auth-httplib2
-google-auth-oauthlib
-tweepy
+tweepy==4.9.0
+google-auth==2.15.0
+google-auth-oauthlib==0.4.6
+google-auth-httplib2==0.1.0
+google-api-python-client==2.87.0
